@@ -1,4 +1,4 @@
-module mongodb
+module mongodbapi
 
 go 1.19
 
