@@ -1,6 +1,5 @@
 package main
 
-import "gofr.dev/pkg/gofr"
 
 func  main()  {
 	
